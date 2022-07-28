@@ -18,3 +18,11 @@ body {
     font-weight: 300;
     line-height: 1.2;
 }
+
+footer {
+    height: 250px;
+}
+
+footer i {
+    font-size: 24px;
+}
