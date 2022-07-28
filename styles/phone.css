@@ -1,0 +1,25 @@
+@media (max-width:576px) {
+
+    .carousel-item img {
+        height: 35vh;
+    }
+
+    .caption-position {
+        bottom: 8%;
+    }
+
+    .carousel-caption p {
+        font-size: 8px;
+    }
+
+    .caption-head-size {
+        font-size: calc(1rem + 1vw);
+    }
+
+    .small-button {
+        --bs-btn-padding-y: 0.25rem;
+        --bs-btn-padding-x: 0.25rem;
+        --bs-btn-font-size: 0.5rem;
+        --bs-btn-border-radius: 0.25rem;
+    }
+}
